@@ -1,0 +1,64 @@
+BIT_DEPTH
+SensorBitDepth
+Bit Depth
+0.0
+UNDEFINED
+feet
+ft
+
+HOLE_DEPTH
+SensorHoleDepth
+Hole Depth
+0.0
+UNDEFINED
+feet
+ft
+
+RATE_OF_PENETRATION
+SensorROP
+ROP
+0.0
+300.0
+feet per hour
+ft/hr
+
+PUMP_PRESSURE
+SensorPumpPressure
+Pump Pres.
+0.0
+2000.0
+pounds per square inch
+PSI
+
+CASING_PRESSURE
+SensorCasingPressure
+Casing Pres.
+0.0
+100.0
+pounds per square inch
+PSI
+
+FLOW_OUT
+SensorFlowOut
+Flow Out
+0.0
+100.0
+percent
+%
+
+TORQUE_MAX
+SensorTorqueMax
+Torque Max
+0.0
+100.0
+kilo-footpounds
+kflb
+
+MUD_PIT_VOLUME
+SensorMudPitVolume
+Mud Pit Vol.
+0.0
+500.0
+barrels
+bbl
+
